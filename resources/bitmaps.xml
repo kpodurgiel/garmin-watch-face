@@ -1,0 +1,5 @@
+<resources>
+    <bitmap id="bitmapHour" filename="images/hour.png" packingFormat="png" automaticPalette="false"></bitmap>
+    <bitmap id="bitmapMin" filename="images/min.png" packingFormat="png" automaticPalette="false"></bitmap>
+    <bitmap id="bitmapSec" filename="images/sec.png" packingFormat="png" automaticPalette="false"></bitmap>
+</resources>

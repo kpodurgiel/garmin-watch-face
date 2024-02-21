@@ -1,0 +1,16 @@
+info face="fontTime" size=100 bold=0 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=1 padding=1,1,1,1 spacing=0,0
+common lineHeight=106 base=98 scaleW=206 scaleH=208 pages=1 packed=0
+page id=0 file="fontTime.png"
+chars count=12
+char id=32 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=20 page=0 chnl=15
+char id=48 x=0 y=0 width=51 height=70 xoffset=2 yoffset=32 xadvance=55 page=0 chnl=15
+char id=49 x=160 y=0 width=46 height=67 xoffset=0 yoffset=34 xadvance=55 page=0 chnl=15
+char id=50 x=105 y=70 width=54 height=69 xoffset=-3 yoffset=32 xadvance=55 page=0 chnl=15
+char id=51 x=51 y=0 width=56 height=70 xoffset=-4 yoffset=32 xadvance=55 page=0 chnl=15
+char id=52 x=57 y=140 width=55 height=67 xoffset=-1 yoffset=34 xadvance=55 page=0 chnl=15
+char id=53 x=0 y=140 width=57 height=68 xoffset=-2 yoffset=34 xadvance=55 page=0 chnl=15
+char id=54 x=107 y=0 width=53 height=70 xoffset=3 yoffset=32 xadvance=55 page=0 chnl=15
+char id=55 x=112 y=140 width=51 height=67 xoffset=7 yoffset=34 xadvance=55 page=0 chnl=15
+char id=56 x=0 y=70 width=52 height=70 xoffset=1 yoffset=32 xadvance=55 page=0 chnl=15
+char id=57 x=52 y=70 width=53 height=70 xoffset=-1 yoffset=32 xadvance=55 page=0 chnl=15
+char id=58 x=163 y=140 width=29 height=55 xoffset=0 yoffset=47 xadvance=31 page=0 chnl=15
