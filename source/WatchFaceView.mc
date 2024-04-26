@@ -23,6 +23,8 @@ var sunsetIcon = "陽"; // 38525
 var stepsIcon = "歩"; // 27497
 var dotFilledIcon = "満"; // 28288
 var dotEmptyIcon = "空"; // 31354
+var sleepModeIcon = "月"; // 26376
+var doNotDisturbIcon = "魔"; // 39764
 
 
 class WatchFaceView extends WatchUi.WatchFace {
@@ -123,6 +125,12 @@ class WatchFaceView extends WatchUi.WatchFace {
     protected function getNotifText() as String {
         var str = "";
         var devSet = System.getDeviceSettings();
+        if (ActivityMonitor.getInfo().isSleepMode) {
+            str += sleepModeIcon + " ";
+        }
+        if (devSet.doNotDisturb) {
+            str += doNotDisturbIcon + " ";
+        }
         if (devSet.phoneConnected) {
             str += bluetoothIcon + " ";
         }
